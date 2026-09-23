@@ -1,4 +1,16 @@
-# 🎬 PROJECT CINEFy — Advanced Web & API Forensic Scraper
+<div align="center">
+
+# 🎬 CINEFy
+### **Advanced Web & API Forensic Scraper**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Web+Forensics+%7C+API+Analysis+%7C+Data+Extraction;Inspect.+Analyze.+Extract.;Advanced+Web+%26+API+Forensic+Scraping" alt="Typing SVG">
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+
+</div>
 
 
 <p align="center">
