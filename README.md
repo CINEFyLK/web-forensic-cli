@@ -128,6 +128,10 @@ flowchart TD
 
 Distributed under the **ISC License**.
 
+
+---
+<img src ="https://capsule-render.vercel.app/api?type=pulse&height=300&color=timeGradient&reversal=false&text=CINEFy&textBg=false&fontColor=%23%2C%23%230.00&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+
 ---
 
 <p align="center">
