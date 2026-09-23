@@ -1,6 +1,18 @@
 <div align="center">
 
+<div align="center">
+
 # 🎬 CINEFy
+
+
+ ██████╗██╗███╗   ██╗███████╗███████╗██╗   ██╗
+██╔════╝██║████╗  ██║██╔════╝██╔════╝╚██╗ ██╔╝
+██║     ██║██╔██╗ ██║█████╗  █████╗   ╚████╔╝ 
+██║     ██║██║╚██╗██║██╔══╝  ██╔══╝    ╚██╔╝  
+╚██████╗██║██║ ╚████║███████╗███████╗   ██║   
+ ╚═════╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝   
+
+ADVANCED WEB & API FORENSIC SCRAPER
 ### **Advanced Web & API Forensic Scraper**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Web+Forensics+%7C+API+Analysis+%7C+Data+Extraction;Inspect.+Analyze.+Extract.;Advanced+Web+%26+API+Forensic+Scraping" alt="Typing SVG">
