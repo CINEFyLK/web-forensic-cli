@@ -1,5 +1,10 @@
 # 🎬 PROJECT CINEFy — Advanced Web & API Forensic Scraper
 
+
+<p align="center">
+  <img src="images/image.png" alt="Kyrexi Media Downloader Banner" width="100%" />
+</p>
+
 [![npm version](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/angel-glitchers-cinefy)
 [![License: ISC](https://img.shields.io/badge/License-ISC-brightgreen.svg)](https://opensource.org/licenses/ISC)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-339933.svg)](https://nodejs.org/)
