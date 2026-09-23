@@ -1,3 +1,7 @@
+<div align="center">
+
+# 🎬 CINEFy
+
 
  ██████╗██╗███╗   ██╗███████╗███████╗██╗   ██╗
 ██╔════╝██║████╗  ██║██╔════╝██╔════╝╚██╗ ██╔╝
@@ -6,18 +10,10 @@
 ╚██████╗██║██║ ╚████║███████╗███████╗   ██║   
  ╚═════╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝   
 
-
- 
-<div align="center">
 ADVANCED WEB & API FORENSIC SCRAPER
-### **Advanced Web & API Forensic Scraper**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+Initializing+CINEFy...;%3E+Scanning+web+endpoints...;%3E+Analyzing+API+traffic...;%3E+Extracting+structured+data...;%3E+Forensic+analysis+ready." alt="CINEFy"> </div> ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Web+Forensics+%7C+API+Analysis+%7C+Data+Extraction;Inspect.+Analyze.+Extract.;Advanced+Web+%26+API+Forensic+Scraping" alt="Typing SVG">
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 
 </div>
 
