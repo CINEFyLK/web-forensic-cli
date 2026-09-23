@@ -1,18 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=CINEFy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
 <div align="center">
 
-# 🎬 CINEFy
+### 🎬 Advanced Web & API Forensic Scraper
 
-
- ██████╗██╗███╗   ██╗███████╗███████╗██╗   ██╗
-██╔════╝██║████╗  ██║██╔════╝██╔════╝╚██╗ ██╔╝
-██║     ██║██╔██╗ ██║█████╗  █████╗   ╚████╔╝ 
-██║     ██║██║╚██╗██║██╔══╝  ██╔══╝    ╚██╔╝  
-╚██████╗██║██║ ╚████║███████╗███████╗   ██║   
- ╚═════╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝   
-
-ADVANCED WEB & API FORENSIC SCRAPER
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+Initializing+CINEFy...;%3E+Scanning+web+endpoints...;%3E+Analyzing+API+traffic...;%3E+Extracting+structured+data...;%3E+Forensic+analysis+ready." alt="CINEFy"> </div> ```
-
+</div>
 
 
 </div>
