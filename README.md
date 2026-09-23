@@ -91,7 +91,7 @@ CINEFy_1724734800000.zip
 
 ## ⚙️ Technical Architecture
 
-```mermaid
+```
 flowchart TD
     A[Global CLI Command: angel-glitchers-cinefy] --> B[Interactive CINEFy Shell]
     B --> C[/scrap <url>]
