@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="images/image.png" alt="Kyrexi Media Downloader Banner" width="100%" />
+  <img src="images/image.PNG" alt="Kyrexi Media Downloader Banner" width="100%" />
 </p>
 
 [![npm version](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/angel-glitchers-cinefy)
